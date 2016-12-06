@@ -1,7 +1,8 @@
 package beans;
 
+
 public class Contact {
-	/** ID */
+	/** ID 1*/
 	private int id;
 	/** 姓名 */
 	private String name;
